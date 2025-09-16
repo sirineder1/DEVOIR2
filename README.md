@@ -8,8 +8,8 @@
 <body>
     <h1>Bienvenue chez Green Kitchen</h1>
     <ul>
-  <li><a href="Repas"> Rapas </a> <br></li> 
-   <li><a href="Témoignage">Témoignage </a></li>
+  <li><a href="#Repas"> Rapas </a> <br></li> 
+   <li><a href="#Témoignage">Témoignage </a></li>
     </ul>
     <h2 id="Repas">Nos Repas écologique</h2>
     <p>Découvrez une variété de repas sains et délicieux</p>
